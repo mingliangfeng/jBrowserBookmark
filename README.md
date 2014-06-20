@@ -18,3 +18,5 @@ $(document).ready(function() {
 </script>
 ```
 
+JSFiddle:
+http://jsfiddle.net/mingliangfeng/6dXsn/
